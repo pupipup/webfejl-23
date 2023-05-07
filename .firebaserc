@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webfejl-b16b5": {
+      "hosting": {
+        "Webfejl-beadando": [
+          "webfejl-b16b5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webfejl-b16b5"
+  }
+}
